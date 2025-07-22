@@ -16,7 +16,7 @@
 - 🤖 AI-Augmented Software Engineer  
 - 🧩 Passionate about immersive scripting and artificial intelligence  
 
-## ✨ Specialties
+## ✨ Likes
 
 - 🤖 Building **Discord bots**  
 - 🌐 Creating **websites**  
