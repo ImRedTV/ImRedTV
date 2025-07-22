@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMzbHF5NW14cXhwdXQ5Y25wZWs1NDFwZnZmZW1hMm8yZDl3MnFmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" alt="Cyber Code Banner" width="100%" style="max-height: 280px; object-fit: cover; border-radius: 12px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzMzbHF5NW14cXhwdXQ5Y25wZWs1NDFwZnZmZW1hMm8yZDl3MnFmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" alt="Cyber Code Banner" style="max-width: 100%; max-height: 280px; object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h1 align="center">
@@ -42,7 +42,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImRedTV&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImRedTV&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,prs" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRedTV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
