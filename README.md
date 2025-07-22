@@ -39,11 +39,9 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImRedTV&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=issues,prs" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImRedTV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
