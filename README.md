@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF4C4C&center=true&vCenter=true&width=700&height=60&lines=Project+Creator;AI+Enthusiast;Founder+of+Atlas" alt="typing-animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00A7F7FF&center=true&vCenter=true&width=700&height=60&lines=Project+Creator;AI+Enthusiast;Founder+of+Atlas" alt="typing-animation" />
 </h3>
 
 ## 🧠 About Me
